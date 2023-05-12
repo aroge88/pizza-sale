@@ -18,3 +18,17 @@ Moreover, the report examines the number of orders placed during each hour of th
 Lastly, the report explores the number of orders and revenue generated on each day of the week. Thursday records the highest revenue of $54,627.15, followed by Sunday, Tuesday, Monday, Friday, Saturday, and Wednesday.
 
 Overall, this report provides valuable insights into the Pizza Revenue dataset, offering a comprehensive understanding of sales patterns, revenue, popular pizza categories, and ingredients. These insights can inform business strategies and decision-making for pizza establishments.
+
+## Recommendations
+
+Based on the analysis of the GitHub SQL queries, the following recommendations can be made:
+
+To optimize the menu, it is recommended to focus on popular pizza categories and offer a variety of options within each category to cater to diverse customer preferences. This will help attract a wider customer base and increase overall sales.
+
+Implementing a dynamic pricing strategy is crucial. Regularly monitor market trends and customer behavior to adjust prices accordingly. Consider offering promotions or discounts during off-peak hours to attract more customers and boost sales during slower periods.
+
+To enhance customer satisfaction and increase revenue, it is important to prioritize ingredient quality and freshness. Ensure that the most common and popular pizza ingredients are always stocked and readily available.
+
+Lastly, implementing a loyalty program or customer rewards system can incentivize repeat business and encourage customer loyalty. Offer discounts, exclusive deals, or freebies to customers who frequently order from your pizzeria.
+
+By implementing these recommendations, pizzerias can improve their sales, attract new customers, and enhance overall customer satisfaction, leading to long-term success in a competitive market.
